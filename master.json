@@ -341,17 +341,6 @@
     "flag": "https://flagsapi.com/US/flat/64.png"
   },
   {
-    "name": "Chateau Durfort Vivens Margaux 2010",
-    "price": 79.99,
-    "country_state": "France",
-    "region": "Bordeaux",
-    "product_type": "Red Wine",
-    "varietal_type": "Bordeaux Blend",
-    "description": "Wine Enthusiast -2nd Growth Margaux Bordeaux France- An ugly duckling at en primeur time this has since blossomed into a wine that is structured tending toward severity. Yet it also has richness in the form of layered black fruit with smooth wood influence and tight acidity on the finish. (Concentrated Cedar Red Fruit  Full-bodied )",
-    "image": "",
-    "flag": "https://flagsapi.com/FR/flat/64.png"
-  },
-  {
     "name": "Heitz Cabernet Trailside 2010",
     "price": 79.99,
     "country_state": "California",
@@ -590,17 +579,6 @@
     "product_type": "Red Wine",
     "varietal_type": "Pinot Noir",
     "description": "Wine Advocate-Willamette Valley OR - It has a more complex bouquet compared to the Yamhill Cuvee with attractive raspberry and briary scents the oak neatly integrated here. The palate is medium-bodied with more red fruit than black... (Elegant Cherry Plum Spice  Medium-bodied )",
-    "image": "",
-    "flag": "https://flagsapi.com/US/flat/64.png"
-  },
-  {
-    "name": "Domaine Serene Pinot Noir Evenstad Reserve 2013",
-    "price": 64.97,
-    "country_state": "Oregon",
-    "region": "Willamette Valley",
-    "product_type": "Red Wine",
-    "varietal_type": "Pinot Noir",
-    "description": "Wine Advocate-Willamette Valley OR - It has a more complex bouquet compared to the Yamhill Cuvee with attractive raspberry and briary scents the oak neatly integrated here. The palate is medium-bodied with more red fruit than black... (Elegant Cherry Plum Spice  Medium-bodied )",
     "image": "https://images.vivino.com/thumbs/mG-tG151TIuuDKn3_360zg_pb_x960.png",
     "flag": "https://flagsapi.com/US/flat/64.png"
   },
@@ -702,17 +680,6 @@
     "description": "Napa CA- This rich expansive Merlot has bold and luscious flavors of ripe cherries earth smoke and figs. Full-bodied and soft the finish is laced with delicately smooth tannins that give the wine a silky texture. ()",
     "image": "https://images.vivino.com/thumbs/9npNBZOmS0y7lTUN7OYPCQ_pb_x960.png",
     "flag": "https://flagsapi.com/US/flat/64.png"
-  },
-  {
-    "name": "Accordini Amarone",
-    "price": 54.99,
-    "country_state": "Italy",
-    "region": "Veneto",
-    "product_type": "Red Wine",
-    "varietal_type": "Corvina",
-    "description": "Amarone Veneto Italy- The grapes are dried in single layers and after 120 days they lose 45% of their weight from water. The grapes are vinified at the end of February with a long maceration on the skins. An intense garnet color with black cherry and raspberry aromas and flavors. (Elegant Blackberry Raspberry  Full-bodied )",
-    "image": "",
-    "flag": "https://flagsapi.com/IT/flat/64.png"
   },
   {
     "name": "Red Mare Cabernet Sauvignon Napa 2013",
@@ -1001,17 +968,6 @@
     "flag": "https://flagsapi.com/US/flat/64.png"
   },
   {
-    "name": "Regina di Renieri 2012",
-    "price": 34.99,
-    "country_state": "Italy",
-    "region": "Tuscany",
-    "product_type": "Red Wine",
-    "varietal_type": "Syrah/Shiraz",
-    "description": "James Suckling-Tuscany Italy - This is a luxurious red with dark berry plum and peach aromas and flavors. Full body velvety tannins and a long and flavorful finish. Juicy and savory. Always a top Super Tuscan from Montalcino. (Intense Blackberry Leather  Full-bodied )",
-    "image": "",
-    "flag": "https://flagsapi.com/IT/flat/64.png"
-  },
-  {
     "name": "Adelsheim Pinot Noir",
     "price": 21.97,
     "country_state": "Oregon",
@@ -1053,17 +1009,6 @@
     "varietal_type": "Cabernet Sauvignon",
     "description": "Antonio Galloni-Paso Robles CA - Bright violet color. Ripe dark berry and floral aromas pick up subtle tobacco and pungent floral and herb nuances as the wine stretches out. Juicy and focused on the palate offering appealingly sweet blackberry and bitter cherry flavors... ()",
     "image": "https://images.vivino.com/thumbs/GWlihlg_Q4aVOgOp8tJYbg_pb_x960.png",
-    "flag": "https://flagsapi.com/US/flat/64.png"
-  },
-  {
-    "name": "Kendall Jackson Grand Reserve Cabernet 2014",
-    "price": 20.99,
-    "country_state": "California",
-    "region": "",
-    "product_type": "Red Wine",
-    "varietal_type": "Cabernet Sauvignon",
-    "description": "Wine Advocate-California -  Dense ruby/purple with a big sweet kiss of creme de cassis licorice graphite and new wood the wine is full-bodied dense rich nicely textured and quite long. This wine will actually age nicely for a decade or more. ()",
-    "image": "",
     "flag": "https://flagsapi.com/US/flat/64.png"
   },
   {
@@ -1771,17 +1716,6 @@
     "flag": "https://flagsapi.com/US/flat/64.png"
   },
   {
-    "name": "Pascal Jolivet Sancerre",
-    "price": 29.99,
-    "country_state": "France",
-    "region": "Loire Valley",
-    "product_type": "White Wine",
-    "varietal_type": "Sauvignon Blanc",
-    "description": "Loire Valley FR- Crisp and minerally, with flavors of grapefruit and lime. Perfect with goat cheese or light salads.",
-    "image": "",
-    "flag": "https://flagsapi.com/FR/flat/64.png"
-  },
-  {
     "name": "Jermann Pinot Grigio",
     "price": 24.99,
     "country_state": "Italy",
@@ -1813,17 +1747,6 @@
     "description": "Alsace FR- Exotic and floral, with flavors of lychee and rose. Excellent with spicy dishes or Asian cuisine.",
     "image": "https://images.vivino.com/thumbs/5PHI_TDcQHKag6T-hxtd1A_pb_x960.png",
     "flag": "https://flagsapi.com/FR/flat/64.png"
-  },
-  {
-    "name": "Groth Sauvignon Blanc",
-    "price": 22.99,
-    "country_state": "California",
-    "region": "Napa Valley",
-    "product_type": "White Wine",
-    "varietal_type": "Sauvignon Blanc",
-    "description": "Napa Valley CA- Bright and zesty, with flavors of citrus and melon. Pairs well with seafood or light appetizers.",
-    "image": "",
-    "flag": "https://flagsapi.com/US/flat/64.png"
   },
   {
     "name": "Dr. Loosen Riesling",
