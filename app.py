@@ -3,7 +3,7 @@ from peewee import *
 from playhouse.shortcuts import model_to_dict, dict_to_model
 import json
 
-db = PostgresqlDatabase('python_flask_project', user='python_flask_project',
+db = PostgresqlDatabase('wines', user='python_flask_project',
                         password='12345', host='localhost', port=5432)
 
 
