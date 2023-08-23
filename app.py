@@ -12,8 +12,6 @@ class BaseModel(Model):
     class Meta:
         database = db
 
-# Used sed -i '' -e 's/JSONFieldName/python_field_name/g' master.json to change json field names through terminal
-
 
 class Wine(BaseModel):
     name = CharField()
