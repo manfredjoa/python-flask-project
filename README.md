@@ -87,7 +87,7 @@ pipenv shell
 Create Database (PostgreSQL)
 
 ```
-createdb wine_api
+createdb wines
 ```
 
 Create Tables, Seed Database, Run Server
