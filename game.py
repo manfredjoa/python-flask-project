@@ -1,59 +1,59 @@
 from peewee import *
 from playhouse.shortcuts import model_to_dict, dict_to_model
 import random
-import json
 from app import Wine
-
-file = open('master.json')
-data = json.load(file)
-
-# Just realized this is using data from master.json, not the actual database!
 
 
 def wine_flashcards():
-    random.shuffle(data)
+    wine_list = []
+    for wine in Wine.select():
+        wine_list.append(model_to_dict(wine))
+
+    number_of_wines = len(wine_list)
+
+    random.shuffle(wine_list)
 
     def train():
         number_of_cards = int(input(
-            f"Let's train! How many cards would you like to use (1 - {len(data)})? "))
+            f"Let's train! How many cards would you like to use (1 - {number_of_wines})? "))
 
         for i in range(0, number_of_cards):
             response = input(
-                f"What type of wine is {data[i]['name']} (red, white, or rose)? ")
+                f"What type of wine is {wine_list[i]['name']} (red, white, or rose)? ")
 
-            if data[i]['product_type'] == "Red Wine":
-                red = data[i]['product_type'][0:3].lower()
+            if wine_list[i]['product_type'] == "Red Wine":
+                red = wine_list[i]['product_type'][0:3].lower()
                 if response.lower() == red:
                     print("Correct!")
-                    data[i]['correct'] += 1
+                    # wine_list[i]['correct'] += 1
                 else:
                     print(
-                        f"Incorrect! {data[i]['name']} is a {data[i]['product_type']}.")
-                    data[i]['incorrect'] += 1
+                        f"Incorrect! {wine_list[i]['name']} is a {wine_list[i]['product_type']}.")
+                    # wine_list[i]['incorrect'] += 1
 
-            elif data[i]['product_type'] == "White Wine":
-                white = data[i]['product_type'][0:5].lower()
+            elif wine_list[i]['product_type'] == "White Wine":
+                white = wine_list[i]['product_type'][0:5].lower()
                 if response.lower() == white:
                     print("Correct!")
-                    data[i]['correct'] += 1
+                    # wine_list[i]['correct'] += 1
                 else:
                     print(
-                        f"Incorrect! {data[i]['name']} is a {data[i]['product_type']}.")
-                    data[i]['incorrect'] += 1
+                        f"Incorrect! {wine_list[i]['name']} is a {wine_list[i]['product_type']}.")
+                    # wine_list[i]['incorrect'] += 1
 
             else:
-                rose = data[i]['product_type'][0:4].lower()
+                rose = wine_list[i]['product_type'][0:4].lower()
                 if response.lower() == rose:
                     print("Correct!")
-                    data[i]['correct'] += 1
+                    # wine_list[i]['correct'] += 1
                 else:
                     print(
-                        f"Incorrect! {data[i]['name']} is a {data[i]['product_type']}.")
-                    data[i]['incorrect'] += 1
+                        f"Incorrect! {wine_list[i]['name']} is a {wine_list[i]['product_type']}.")
+                    # wine_list[i]['incorrect'] += 1
 
     def start():
         create_or_train = input(
-            f"Welcome to your Wine Flashcards! You currently have {len(data)} cards. Would you like to create a new card or train with your existing cards? Enter c for create or t for train: ")
+            f"Welcome to your Wine Flashcards! You currently have {number_of_wines} cards. Would you like to create a new card or train with your existing cards? Enter c for create or t for train: ")
 
         if create_or_train.lower() == "c":
             print("Let's create a new card!")
