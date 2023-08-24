@@ -12,12 +12,13 @@ def wine_flashcards():
     number_of_wines = len(wine_list)
 
     def train():
-        random.shuffle(wine_list)
-        correct = 0
-        incorrect = 0
         play_again = "y"
 
         while (play_again.lower() == "y"):
+            random.shuffle(wine_list)
+            correct = 0
+            incorrect = 0
+
             number_of_cards = int(input(
                 f"Let's train! How many cards would you like to use (1 - {number_of_wines})? "))
 
