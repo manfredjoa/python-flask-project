@@ -1,8 +1,6 @@
 from flask import Flask, request, jsonify
 from peewee import *
 from playhouse.shortcuts import model_to_dict, dict_to_model
-import json
-
 
 db = PostgresqlDatabase('wines', user='python_flask_project',
                         password='12345', host='localhost', port=5432)
@@ -27,14 +25,14 @@ class Wine(BaseModel):
     incorrect = IntegerField(default=0)
 
 
-db.connect()
-db.drop_tables([Wine])
-db.create_tables([Wine])
+# db.connect()
+# db.drop_tables([Wine])
+# db.create_tables([Wine])
 
-file = open('master.json')
-data = json.load(file)
+# file = open('master.json')
+# data = json.load(file)
 
-Wine.insert_many(data).execute()
+# Wine.insert_many(data).execute()
 
 app = Flask(__name__)
 
