@@ -23,6 +23,8 @@ class Wine(BaseModel):
     description = TextField()
     image = CharField()
     flag = CharField()
+    correct = IntegerField(default=0)
+    incorrect = IntegerField(default=0)
 
 
 db.connect()
