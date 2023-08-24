@@ -1,8 +1,8 @@
-# Wine API
+# Wine API with Command Line Application
 
 ## Introduction
 
-Welcome to my Wine API mini project!
+Welcome to my Wine API with Command Line Application mini project!
 
 The data for this API came from the master.json file found in my previous project [Wine About It - Server](https://github.com/manfredjoa/wine-about-it-server). You may also want to check out the [Wine About It - Client](https://github.com/manfredjoa/wine-about-it-client)!
 
@@ -27,7 +27,6 @@ sed sed -i '' -e 's/JSONFieldName/python_field_name/g master.json'
 | Field         | Type         | Description                                                        |
 | ------------- | ------------ | ------------------------------------------------------------------ |
 | name          | CharField    | The name of the wine                                               |
-| price         | DecimalField | The price of the wine                                              |
 | country_state | CharField    | The country/state the wine is from                                 |
 | region        | CharField    | The specific region the wine is from within its country/state      |
 | product_type  | CharField    | The type of wine                                                   |
@@ -35,6 +34,8 @@ sed sed -i '' -e 's/JSONFieldName/python_field_name/g master.json'
 | description   | TextField    | A description of the wine                                          |
 | image         | CharField    | A link to an image of the wine                                     |
 | flag          | CharField    | A link to an image of the country's flag of which the wine is from |
+| correct       | IntegerField | The number of times the user has correctly identified the wine     |
+| incorrect     | IntegerField | The number of times the user has incorrectly identified the wine   |
 
 ## CRUD Functionality
 
@@ -54,6 +55,12 @@ sed sed -i '' -e 's/JSONFieldName/python_field_name/g master.json'
 ### DELETE
 
 - **_/wines/\<id\>_** - Deletes a wine by id
+
+## Command Line Application
+
+The command line application allows the user to interact with the API in a fun and educational way! The user can use the flashcards containing data from the API to test their knowledge of different types of wine. The user can also create their own flashcards and save them to the database. Simply follow the installation instructions below to get started!
+
+Once installation is complete, follow along with the prompts to either create a new flashcard or select the number of randomly shuffled flashcards you would like to train with. Each flashcard also contains the correct and incorrect fields which describe the number of times the user has correctly or incorrectly identified that specific wine's type.
 
 ## Technologies Used
 
@@ -90,16 +97,29 @@ Create Database (PostgreSQL)
 createdb wines
 ```
 
-Create Tables, Seed Database, Run Server
+Create Tables & Seed Database
+
+```
+python3 seed.py
+```
+
+Run Server (_as needed_) for CRUD functionality involving endpoints and Postman
 
 ```
 nodemon --exec python3 app.py
 ```
 
+Open Command Line Application
+
+```
+python3 wine_flashcards.py
+```
+
 ## Next Steps
 
-- Pagination
+- Pagination of API
 - Creating another model that can be referenced by the wine model
+- Adding more training options to the flashcards in the command line application, such as training by country/state, region, or varietal type
 
 ## Thoughts
 
@@ -109,4 +129,6 @@ I still found it surprising how I was able to create this rather quickly, consid
 
 I also wanted to point out that it could have been a very simple fix for me to change the field names from Pascal case to snake case in the json file, simply by using cmd + f and selecting all instances of the word and changing it that way. However, I challenged myself to find another way to do this and learned something new that I can use in the future!
 
-I enjoyed working with Python, PostgreSQL, Peewee, and Flask and look forward to using them again in the future!
+I also loved and had a lot of fun creating a command line application to supplement the API. I think it's a great way to interact with an API besides using it as a data library. I also think it's a great way to test the API and make sure it's working as intended and that the database is actually being updated based on user input.
+
+I enjoyed working with Python, PostgreSQL, Peewee, and Flask and look forward to creating more command line applications in the future!
