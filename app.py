@@ -13,7 +13,6 @@ class BaseModel(Model):
 
 class Wine(BaseModel):
     name = CharField()
-    price = DecimalField()
     country_state = CharField()
     region = CharField()
     product_type = CharField()
@@ -24,15 +23,6 @@ class Wine(BaseModel):
     correct = IntegerField(default=0)
     incorrect = IntegerField(default=0)
 
-
-# db.connect()
-# db.drop_tables([Wine])
-# db.create_tables([Wine])
-
-# file = open('master.json')
-# data = json.load(file)
-
-# Wine.insert_many(data).execute()
 
 app = Flask(__name__)
 

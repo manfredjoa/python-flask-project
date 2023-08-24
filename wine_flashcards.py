@@ -84,13 +84,37 @@ def wine_flashcards():
                 play_again = "n"
                 print("It was nice training with you today. Goodbye!")
 
+    def create():
+        name = input("What is the name of the wine? ")
+        country_state = input("What country or state is the wine from? ")
+        region = input("What region is the wine from? ")
+        product_type = input("What type of wine is it (red, white, or rose)? ")
+        varietal_type = input("What is the varietal type of this wine? ")
+        description = input("Please describe the wine: ")
+        image = input("Please provide a link to an image of the wine: ")
+        flag = input("Please provide a link to a flag of the wine: ")
+
+        confirm_create_wine = input(
+            f"You entered\nName: {name}\nCountry / State: {country_state}\nRegion: {region}\nProduct Type: {product_type}\nVarietal Type: {varietal_type}\nDescription: {description}\nImage: {image}\nFlag: {flag}\nIs this correct (y or n)? ")
+
+        if confirm_create_wine.lower() == "y":
+            new_wine_flashcard = Wine(name=name, country_state=country_state, region=region, product_type=product_type,
+                                      varietal_type=varietal_type, description=description, image=image, flag=flag)
+            new_wine_flashcard.save()
+            print(
+                f"{new_wine_flashcard.name} has been added as a flashcard to the database!")
+        else:
+            print("Creating flashcard cancelled.")
+            start()
+
     def start():
         create_or_train = input(
-            f"Welcome to your Wine Flashcards! You currently have {number_of_wines} cards. Would you like to create a new card or train with your existing cards? Enter c for create or t for train: ")
+            f"Welcome to your Wine Flashcards!\nYou currently have {number_of_wines} cards. Would you like to create a new card or train with your existing cards? Enter c for create or t for train: ")
 
         if create_or_train.lower() == "c":
             print("Let's create a new card!")
-            # create()
+            create()
+            wine_flashcards()
         elif create_or_train.lower() == "t":
             train()
         else:

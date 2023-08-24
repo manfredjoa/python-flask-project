@@ -1,7 +1,6 @@
 [
   {
     "name": "Chateau Pavillon Rouge Margaux 2010",
-    "price": 249.97,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -12,7 +11,6 @@
   },
   {
     "name": "Chappellet Cabernet Sauvignon Pritchard Hill Napa 2014",
-    "price": 239.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -23,7 +21,6 @@
   },
   {
     "name": "Chateau Leoville Las Cases St Julien 2015",
-    "price": 229.99,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -34,7 +31,6 @@
   },
   {
     "name": "Dominus 2014",
-    "price": 229.97,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -45,7 +41,6 @@
   },
   {
     "name": "Chateau Pavillon Rouge Margaux 2005",
-    "price": 219.97,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -56,7 +51,6 @@
   },
   {
     "name": "Joseph Phelps Insignia 2012",
-    "price": 199.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -67,7 +61,6 @@
   },
   {
     "name": "Chateau Valandraud St Emilion 2015",
-    "price": 199.98,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -78,7 +71,6 @@
   },
   {
     "name": "Joseph Phelps Insignia 2014",
-    "price": 199.97,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -89,7 +81,6 @@
   },
   {
     "name": "Barnett Cabernet Rattlesnake 2014",
-    "price": 199.97,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -100,7 +91,6 @@
   },
   {
     "name": "Ornellaia 2014",
-    "price": 199.97,
     "country_state": "Italy",
     "region": "Tuscany",
     "product_type": "Red Wine",
@@ -111,7 +101,6 @@
   },
   {
     "name": "Ornellaia 2013",
-    "price": 199.97,
     "country_state": "Italy",
     "region": "Tuscany",
     "product_type": "Red Wine",
@@ -122,7 +111,6 @@
   },
   {
     "name": "Chateau Cos DEstournel St Estephe 2015",
-    "price": 189.97,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -133,7 +121,6 @@
   },
   {
     "name": "Echion Cabernet Sauvignon 2014",
-    "price": 179.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -144,7 +131,6 @@
   },
   {
     "name": "Caymus Cabernet Special Selection 2014",
-    "price": 174.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -155,7 +141,6 @@
   },
   {
     "name": "Adobe Road Cab Beckstoffer A1Block 2013",
-    "price": 174.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -166,7 +151,6 @@
   },
   {
     "name": "Caymus Cabernet 2015",
-    "price": 159.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -177,7 +161,6 @@
   },
   {
     "name": "Bevan Pinot Noir Ritas Crown Vineyard",
-    "price": 89.99,
     "country_state": "California",
     "region": "Santa Barbara",
     "product_type": "Red Wine",
@@ -188,7 +171,6 @@
   },
   {
     "name": "Ghost Block Cabernet Oakville Estate",
-    "price": 89.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -199,7 +181,6 @@
   },
   {
     "name": "Levendi Cabernet Stagecoach Vineyard 2014",
-    "price": 89.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -210,7 +191,6 @@
   },
   {
     "name": "Barnett Cabernet Spring Mountain 2015",
-    "price": 89.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -221,7 +201,6 @@
   },
   {
     "name": "Melka CJ Cabernet Napa Valley 2014",
-    "price": 89.98,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -232,7 +211,6 @@
   },
   {
     "name": "Titus Cabernet Napa Reserve",
-    "price": 84.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -243,7 +221,6 @@
   },
   {
     "name": "Nickel &amp; Nickel Cabernet CC Ranch 2013",
-    "price": 84.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -254,7 +231,6 @@
   },
   {
     "name": "Nickel &amp; Nickel Cabernet Quarry 2014",
-    "price": 84.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -265,7 +241,6 @@
   },
   {
     "name": "Domaine De Chevalier Pessac Leognan 2015",
-    "price": 84.99,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -276,7 +251,6 @@
   },
   {
     "name": "Duckhorn Merlot Three Palms 2013",
-    "price": 84.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -287,7 +261,6 @@
   },
   {
     "name": "Chateau Beaucastel Chateauneuf-du-Pape Rouge 2015",
-    "price": 84.99,
     "country_state": "France",
     "region": "Rhone",
     "product_type": "Red Wine",
@@ -298,7 +271,6 @@
   },
   {
     "name": "Chimney Rock Elevage 2013",
-    "price": 80.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -309,7 +281,6 @@
   },
   {
     "name": "Caymus Cabernet 2016",
-    "price": 79.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -320,7 +291,6 @@
   },
   {
     "name": "Chateau Durfort Vivens Margaux 2010",
-    "price": 79.99,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -331,7 +301,6 @@
   },
   {
     "name": "Heitz Cabernet Trailside 2010",
-    "price": 79.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -342,7 +311,6 @@
   },
   {
     "name": "Heitz Cabernet Trailside 2010",
-    "price": 79.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -353,7 +321,6 @@
   },
   {
     "name": "Chateau Durfort Vivens Margaux 2010",
-    "price": 79.99,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -364,7 +331,6 @@
   },
   {
     "name": "Hunnicutt Cabernet Sauvignon Napa Valley 2014",
-    "price": 79.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -375,7 +341,6 @@
   },
   {
     "name": "Pahlmeyer Merlot Napa 2014",
-    "price": 79.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -386,7 +351,6 @@
   },
   {
     "name": "Blankiet Prince of Hearts Red Napa 2012",
-    "price": 79.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -397,7 +361,6 @@
   },
   {
     "name": "Coup de Foudre 37.2 Cuvee Napa 2012",
-    "price": 79.98,
     "country_state": "California",
     "region": "",
     "product_type": "Red Wine",
@@ -408,7 +371,6 @@
   },
   {
     "name": "Casanova di Neri Brunello Tenuta Nuova 2011",
-    "price": 79.97,
     "country_state": "Italy",
     "region": "Tuscany",
     "product_type": "Red Wine",
@@ -419,7 +381,6 @@
   },
   {
     "name": "Chateau Leoville Barton St Julien 2012",
-    "price": 79.97,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -430,7 +391,6 @@
   },
   {
     "name": "Caymus Cabernet 2015",
-    "price": 74.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -441,7 +401,6 @@
   },
   {
     "name": "Chateau Lagrange St. Julien 2010",
-    "price": 74.99,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -452,7 +411,6 @@
   },
   {
     "name": "Silver Oak Cabernet Alexander 2012",
-    "price": 74.99,
     "country_state": "California",
     "region": "Sonoma County",
     "product_type": "Red Wine",
@@ -463,7 +421,6 @@
   },
   {
     "name": "Barnett Cabernet Spring Mountain 2014",
-    "price": 74.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -474,7 +431,6 @@
   },
   {
     "name": "Pahlmeyer Jayson Cabernet Sauvignon Napa Valley 2014",
-    "price": 74.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -485,7 +441,6 @@
   },
   {
     "name": "Marques De Murrieta Castillo Ygay 2013",
-    "price": 74.99,
     "country_state": "Spain",
     "region": "Rioja",
     "product_type": "Red Wine",
@@ -496,7 +451,6 @@
   },
   {
     "name": "Flora Springs Trilogy 2014",
-    "price": 74.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -507,7 +461,6 @@
   },
   {
     "name": "Antinori Pian dell Vigne Brunello 2011",
-    "price": 65.99,
     "country_state": "Italy",
     "region": "Tuscany",
     "product_type": "Red Wine",
@@ -518,7 +471,6 @@
   },
   {
     "name": "IL Poggione Brunello Montalcino 2012",
-    "price": 65.99,
     "country_state": "Italy",
     "region": "Tuscany",
     "product_type": "Red Wine",
@@ -529,7 +481,6 @@
   },
   {
     "name": "1858 Cabernet Sauvignon Napa Valley",
-    "price": 64.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -540,7 +491,6 @@
   },
   {
     "name": "Chappellet Cabernet Sauvignon Napa Signature 2015",
-    "price": 64.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -551,7 +501,6 @@
   },
   {
     "name": "D.R. Stephens Cabernet Sauvignon DRII",
-    "price": 64.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -562,7 +511,6 @@
   },
   {
     "name": "David Arthur Meritaggio 2008",
-    "price": 64.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -573,7 +521,6 @@
   },
   {
     "name": "Domaine Serene Pinot Noir Evenstad Reserve 2013",
-    "price": 64.97,
     "country_state": "Oregon",
     "region": "Willamette Valley",
     "product_type": "Red Wine",
@@ -584,7 +531,6 @@
   },
   {
     "name": "Ornellaia LeSerre Nuove 2014",
-    "price": 64.97,
     "country_state": "Italy",
     "region": "Tuscany",
     "product_type": "Red Wine",
@@ -595,7 +541,6 @@
   },
   {
     "name": "Flowers Pinot Noir Sea Ridge 2014",
-    "price": 62.99,
     "country_state": "California",
     "region": "Sonoma County",
     "product_type": "Red Wine",
@@ -606,7 +551,6 @@
   },
   {
     "name": "Mauro Veglio Barolo Castelletto 2013",
-    "price": 62.99,
     "country_state": "Italy",
     "region": "Piedmont",
     "product_type": "Red Wine",
@@ -617,7 +561,6 @@
   },
   {
     "name": "Orin Swift Cabernet Sauvignon Palermo 2014",
-    "price": 59.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -628,7 +571,6 @@
   },
   {
     "name": "Chateau Larrivet Haut Brion Pessac 2009",
-    "price": 59.99,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -639,7 +581,6 @@
   },
   {
     "name": "Sheridan LOrage Yakima 2014",
-    "price": 59.99,
     "country_state": "Washington",
     "region": "Yakima Valley",
     "product_type": "Red Wine",
@@ -650,7 +591,6 @@
   },
   {
     "name": "Cakebread Merlot 2013",
-    "price": 56.97,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -661,7 +601,6 @@
   },
   {
     "name": "Torial Cabernet Sauvignon Napa Valley",
-    "price": 55.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -672,7 +611,6 @@
   },
   {
     "name": "Emmolo Merlot Napa 2015",
-    "price": 54.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -683,7 +621,6 @@
   },
   {
     "name": "Red Mare Cabernet Sauvignon Napa 2013",
-    "price": 54.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -694,7 +631,6 @@
   },
   {
     "name": "Pine Ridge Cabernet Napa Valley 2014",
-    "price": 54.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -705,7 +641,6 @@
   },
   {
     "name": "Hess Collection Cabernet Mt Veeder 2013",
-    "price": 54.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -716,7 +651,6 @@
   },
   {
     "name": "Chateau La Pointe Pomerol 2015",
-    "price": 54.99,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -727,7 +661,6 @@
   },
   {
     "name": "Levendi Cabernet Sweetwater Ranch 2014",
-    "price": 54.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -738,7 +671,6 @@
   },
   {
     "name": "Nickel &amp; Nickel Merlot Suscol Ranch 2013",
-    "price": 54.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -749,7 +681,6 @@
   },
   {
     "name": "Chateau Monbousquet St Emilion 2012",
-    "price": 54.99,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -760,7 +691,6 @@
   },
   {
     "name": "Canvasback Cabernet Sauvignion Red Mountain 2014",
-    "price": 54.99,
     "country_state": "Washington",
     "region": "Columbia Valley",
     "product_type": "Red Wine",
@@ -771,7 +701,6 @@
   },
   {
     "name": "Villa Cavarena Amarone della Valpolicella",
-    "price": 54.99,
     "country_state": "Italy",
     "region": "Veneto",
     "product_type": "Red Wine",
@@ -782,7 +711,6 @@
   },
   {
     "name": "Chateau Fombrauge St. Emilion 2010",
-    "price": 54.99,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -793,7 +721,6 @@
   },
   {
     "name": "Beaux Freres Pinot Noir Willamette 2015",
-    "price": 54.99,
     "country_state": "Oregon",
     "region": "Willamette Valley",
     "product_type": "Red Wine",
@@ -804,7 +731,6 @@
   },
   {
     "name": "Antica Cabernet Napa 2013",
-    "price": 54.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -815,7 +741,6 @@
   },
   {
     "name": "Ramey Cabernet Sauvignon Napa 2013",
-    "price": 53.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -826,7 +751,6 @@
   },
   {
     "name": "Titus Cabernet Napa 2014",
-    "price": 52.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -837,7 +761,6 @@
   },
   {
     "name": "Mauro Veglio Barolo Gattera 2013",
-    "price": 52.99,
     "country_state": "Italy",
     "region": "Piedmont",
     "product_type": "Red Wine",
@@ -848,7 +771,6 @@
   },
   {
     "name": "Montresor Amarone Crosara",
-    "price": 52.99,
     "country_state": "Italy",
     "region": "Veneto",
     "product_type": "Red Wine",
@@ -859,7 +781,6 @@
   },
   {
     "name": "Duckhorn Cabernet Napa 2014",
-    "price": 52.97,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -870,7 +791,6 @@
   },
   {
     "name": "Pahlmeyer Jayson Red",
-    "price": 51.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -881,7 +801,6 @@
   },
   {
     "name": "Pahlmeyer Jayson Red",
-    "price": 51.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -892,7 +811,6 @@
   },
   {
     "name": "Chalk Hill Proprietary Estate Red 2014",
-    "price": 51.99,
     "country_state": "California",
     "region": "Sonoma County",
     "product_type": "Red Wine",
@@ -903,7 +821,6 @@
   },
   {
     "name": "Belle Glos Pinot Noir Las Alturas 2016",
-    "price": 49.99,
     "country_state": "California",
     "region": "Monterey",
     "product_type": "Red Wine",
@@ -914,7 +831,6 @@
   },
   {
     "name": "Jordan Cabernet",
-    "price": 49.99,
     "country_state": "California",
     "region": "Sonoma County",
     "product_type": "Red Wine",
@@ -925,7 +841,6 @@
   },
   {
     "name": "Red Schooner Red Blend Mendoza",
-    "price": 49.99,
     "country_state": "Argentina",
     "region": "Mendoza",
     "product_type": "Red Wine",
@@ -936,7 +851,6 @@
   },
   {
     "name": "Renieri Brunello di Montalcino 2012",
-    "price": 49.99,
     "country_state": "Italy",
     "region": "Tuscany",
     "product_type": "Red Wine",
@@ -947,7 +861,6 @@
   },
   {
     "name": "Seghesio Zinfandel Old Vines 2013",
-    "price": 35.97,
     "country_state": "California",
     "region": "Sonoma County",
     "product_type": "Red Wine",
@@ -958,7 +871,6 @@
   },
   {
     "name": "The Calling Cabernet Alexander Valley",
-    "price": 34.99,
     "country_state": "California",
     "region": "Sonoma County",
     "product_type": "Red Wine",
@@ -969,7 +881,6 @@
   },
   {
     "name": "Adelsheim Pinot Noir",
-    "price": 21.97,
     "country_state": "Oregon",
     "region": "Willamette Valley",
     "product_type": "Red Wine",
@@ -980,7 +891,6 @@
   },
   {
     "name": "Hess Cabernet Napa Allomi Vineyard 2015",
-    "price": 21.77,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "Red Wine",
@@ -991,7 +901,6 @@
   },
   {
     "name": "Two Hands Shiraz Gnarly Dudes 2016",
-    "price": 21.77,
     "country_state": "Australia",
     "region": "Barossa",
     "product_type": "Red Wine",
@@ -1002,7 +911,6 @@
   },
   {
     "name": "Daou Cabernet Paso Robles 2016",
-    "price": 20.99,
     "country_state": "California",
     "region": "Central Coast",
     "product_type": "Red Wine",
@@ -1013,7 +921,6 @@
   },
   {
     "name": "Macchia Zinfandel Mischievous Lodi",
-    "price": 20.99,
     "country_state": "California",
     "region": "Lodi",
     "product_type": "Red Wine",
@@ -1024,7 +931,6 @@
   },
   {
     "name": "Bodega Colome Malbec 2014",
-    "price": 20.99,
     "country_state": "Argentina",
     "region": "",
     "product_type": "Red Wine",
@@ -1035,7 +941,6 @@
   },
   {
     "name": "Chateau Garraud Lalande de Pomerol",
-    "price": 20.98,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -1046,7 +951,6 @@
   },
   {
     "name": "Crossfork Creek Merlot Yakima",
-    "price": 19.99,
     "country_state": "Washington",
     "region": "Yakima Valley",
     "product_type": "Red Wine",
@@ -1057,7 +961,6 @@
   },
   {
     "name": "Wildhaven Cabernet Sauvignon Reserve Horse Heaven Hills",
-    "price": 19.99,
     "country_state": "Washington",
     "region": "Columbia Valley",
     "product_type": "Red Wine",
@@ -1068,7 +971,6 @@
   },
   {
     "name": "Chateau de Chantegrive Graves 2015",
-    "price": 19.99,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "Red Wine",
@@ -1079,7 +981,6 @@
   },
   {
     "name": "Domaine Tempier Bandol Rosé",
-    "price": 59.99,
     "country_state": "France",
     "region": "Provence",
     "product_type": "Rose Wine",
@@ -1090,7 +991,6 @@
   },
   {
     "name": "Château d'Esclans Garrus Rosé",
-    "price": 79.99,
     "country_state": "France",
     "region": "Provence",
     "product_type": "Rose Wine",
@@ -1101,7 +1001,6 @@
   },
   {
     "name": "Domaines Ott Château de Selle Rosé",
-    "price": 58.99,
     "country_state": "France",
     "region": "Provence",
     "product_type": "Rose Wine",
@@ -1112,7 +1011,6 @@
   },
   {
     "name": "Aubert Pinot Noir Rosé",
-    "price": 74.99,
     "country_state": "California",
     "region": "Sonoma Coast",
     "product_type": "Rose Wine",
@@ -1123,7 +1021,6 @@
   },
   {
     "name": "Lopez de Heredia Viña Tondonia Rosado",
-    "price": 59.99,
     "country_state": "Spain",
     "region": "Rioja",
     "product_type": "Rose Wine",
@@ -1134,7 +1031,6 @@
   },
   {
     "name": "Château de Pibarnon Bandol Rosé",
-    "price": 52.99,
     "country_state": "France",
     "region": "Provence",
     "product_type": "Rose Wine",
@@ -1145,7 +1041,6 @@
   },
   {
     "name": "Château Simone Palette Rosé",
-    "price": 66.99,
     "country_state": "France",
     "region": "Provence",
     "product_type": "Rose Wine",
@@ -1156,7 +1051,6 @@
   },
   {
     "name": "Clos Cibonne Tibouren Rosé",
-    "price": 59.99,
     "country_state": "France",
     "region": "Provence",
     "product_type": "Rose Wine",
@@ -1167,7 +1061,6 @@
   },
   {
     "name": "Cayuse Edith Grenache Rosé",
-    "price": 64.99,
     "country_state": "Washington",
     "region": "Walla Walla Valley",
     "product_type": "Rose Wine",
@@ -1178,7 +1071,6 @@
   },
   {
     "name": "Whispering Angel Caves d'Esclans Rosé",
-    "price": 50.99,
     "country_state": "France",
     "region": "Provence",
     "product_type": "Rose Wine",
@@ -1189,7 +1081,6 @@
   },
   {
     "name": "Quilceda Creek CVR Columbia Valley Rosé",
-    "price": 67.99,
     "country_state": "Washington",
     "region": "Columbia Valley",
     "product_type": "Rose Wine",
@@ -1200,7 +1091,6 @@
   },
   {
     "name": "Gérard Bertrand Côte des Roses Rosé",
-    "price": 54.99,
     "country_state": "France",
     "region": "Languedoc",
     "product_type": "Rose Wine",
@@ -1211,7 +1101,6 @@
   },
   {
     "name": "Decoy Rosé",
-    "price": 55.99,
     "country_state": "California",
     "region": "Sonoma County",
     "product_type": "Rose Wine",
@@ -1222,7 +1111,6 @@
   },
   {
     "name": "M. Chapoutier Belleruche Rosé",
-    "price": 51.99,
     "country_state": "France",
     "region": "Rhône Valley",
     "product_type": "Rose Wine",
@@ -1233,7 +1121,6 @@
   },
   {
     "name": "Miraval Côtes de Provence Rosé",
-    "price": 56.99,
     "country_state": "France",
     "region": "Provence",
     "product_type": "Rose Wine",
@@ -1244,7 +1131,6 @@
   },
   {
     "name": "Minuty Prestige Rosé",
-    "price": 58.99,
     "country_state": "France",
     "region": "Provence",
     "product_type": "Rose Wine",
@@ -1255,7 +1141,6 @@
   },
   {
     "name": "Château de Berne Inspiration Rosé",
-    "price": 60.99,
     "country_state": "France",
     "region": "Provence",
     "product_type": "Rose Wine",
@@ -1266,7 +1151,6 @@
   },
   {
     "name": "Ameztoi Rubentis Rosé",
-    "price": 53.99,
     "country_state": "Spain",
     "region": "Getariako Txakolina",
     "product_type": "Rose Wine",
@@ -1277,7 +1161,6 @@
   },
   {
     "name": "Lucien Albrecht Brut Rosé",
-    "price": 59.99,
     "country_state": "France",
     "region": "Alsace",
     "product_type": "Rose Wine",
@@ -1288,7 +1171,6 @@
   },
   {
     "name": "Billecart-Salmon Brut Rosé",
-    "price": 79.99,
     "country_state": "France",
     "region": "Champagne",
     "product_type": "Rose Wine",
@@ -1299,7 +1181,6 @@
   },
   {
     "name": "Prieuré de Montézargues Tavel Rosé",
-    "price": 55.99,
     "country_state": "France",
     "region": "Rhône Valley",
     "product_type": "Rose Wine",
@@ -1310,7 +1191,6 @@
   },
   {
     "name": "La Spinetta Il Rosé di Casanova",
-    "price": 52.99,
     "country_state": "Italy",
     "region": "Tuscany",
     "product_type": "Rose Wine",
@@ -1321,7 +1201,6 @@
   },
   {
     "name": "Domaine de la Mordorée Tavel Rosé La Dame Rousse",
-    "price": 57.99,
     "country_state": "France",
     "region": "Rhône Valley",
     "product_type": "Rose Wine",
@@ -1332,7 +1211,6 @@
   },
   {
     "name": "Veuve Clicquot Rosé Champagne",
-    "price": 79.99,
     "country_state": "France",
     "region": "Champagne",
     "product_type": "Rose Wine",
@@ -1343,7 +1221,6 @@
   },
   {
     "name": "Château Leoube Love by Leoube Rosé",
-    "price": 50.99,
     "country_state": "France",
     "region": "Provence",
     "product_type": "Rose Wine",
@@ -1354,7 +1231,6 @@
   },
   {
     "name": "Taittinger Prestige Brut Rosé Champagne",
-    "price": 75.99,
     "country_state": "France",
     "region": "Champagne",
     "product_type": "Rose Wine",
@@ -1365,7 +1241,6 @@
   },
   {
     "name": "Chateau Ste. Michelle Chardonnay",
-    "price": 13.99,
     "country_state": "Washington",
     "region": "Columbia Valley",
     "product_type": "White Wine",
@@ -1376,7 +1251,6 @@
   },
   {
     "name": "Kim Crawford Sauvignon Blanc",
-    "price": 19.99,
     "country_state": "New Zealand",
     "region": "Marlborough",
     "product_type": "White Wine",
@@ -1387,7 +1261,6 @@
   },
   {
     "name": "Santa Margherita Pinot Grigio",
-    "price": 21.99,
     "country_state": "Italy",
     "region": "Alto Adige",
     "product_type": "White Wine",
@@ -1398,7 +1271,6 @@
   },
   {
     "name": "Rombauer Chardonnay",
-    "price": 36.99,
     "country_state": "California",
     "region": "Carneros",
     "product_type": "White Wine",
@@ -1409,7 +1281,6 @@
   },
   {
     "name": "Robert Mondavi Fumé Blanc",
-    "price": 20.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "White Wine",
@@ -1420,7 +1291,6 @@
   },
   {
     "name": "Trimbach Gewurztraminer",
-    "price": 22.99,
     "country_state": "France",
     "region": "Alsace",
     "product_type": "White Wine",
@@ -1431,7 +1301,6 @@
   },
   {
     "name": "Ferrari-Carano Chardonnay",
-    "price": 23.99,
     "country_state": "California",
     "region": "Sonoma County",
     "product_type": "White Wine",
@@ -1442,7 +1311,6 @@
   },
   {
     "name": "Cakebread Sauvignon Blanc",
-    "price": 29.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "White Wine",
@@ -1453,7 +1321,6 @@
   },
   {
     "name": "Domaine Leflaive Puligny-Montrachet",
-    "price": 120.99,
     "country_state": "France",
     "region": "Burgundy",
     "product_type": "White Wine",
@@ -1464,7 +1331,6 @@
   },
   {
     "name": "Cloudy Bay Sauvignon Blanc",
-    "price": 31.99,
     "country_state": "New Zealand",
     "region": "Marlborough",
     "product_type": "White Wine",
@@ -1475,7 +1341,6 @@
   },
   {
     "name": "La Crema Chardonnay",
-    "price": 18.99,
     "country_state": "California",
     "region": "Monterey",
     "product_type": "White Wine",
@@ -1486,7 +1351,6 @@
   },
   {
     "name": "Pascal Jolivet Sancerre",
-    "price": 26.99,
     "country_state": "France",
     "region": "Loire Valley",
     "product_type": "White Wine",
@@ -1497,7 +1361,6 @@
   },
   {
     "name": "Grgich Hills Estate Fumé Blanc",
-    "price": 30.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "White Wine",
@@ -1508,7 +1371,6 @@
   },
   {
     "name": "Louis Jadot Pouilly-Fuissé",
-    "price": 29.99,
     "country_state": "France",
     "region": "Burgundy",
     "product_type": "White Wine",
@@ -1519,7 +1381,6 @@
   },
   {
     "name": "Chalk Hill Chardonnay",
-    "price": 42.99,
     "country_state": "California",
     "region": "Chalk Hill",
     "product_type": "White Wine",
@@ -1530,7 +1391,6 @@
   },
   {
     "name": "Torres Viña Esmeralda",
-    "price": 14.99,
     "country_state": "Spain",
     "region": "Catalonia",
     "product_type": "White Wine",
@@ -1541,7 +1401,6 @@
   },
   {
     "name": "Jordan Chardonnay",
-    "price": 32.99,
     "country_state": "California",
     "region": "Russian River Valley",
     "product_type": "White Wine",
@@ -1552,7 +1411,6 @@
   },
   {
     "name": "Conundrum White Blend",
-    "price": 22.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "White Wine",
@@ -1563,7 +1421,6 @@
   },
   {
     "name": "Domaine de la Romanée-Conti Montrachet",
-    "price": 1500.99,
     "country_state": "France",
     "region": "Burgundy",
     "product_type": "White Wine",
@@ -1574,7 +1431,6 @@
   },
   {
     "name": "Krug Clos du Mesnil",
-    "price": 999.99,
     "country_state": "France",
     "region": "Champagne",
     "product_type": "White Wine",
@@ -1585,7 +1441,6 @@
   },
   {
     "name": "Aubert Chardonnay",
-    "price": 220.99,
     "country_state": "California",
     "region": "Sonoma Coast",
     "product_type": "White Wine",
@@ -1596,7 +1451,6 @@
   },
   {
     "name": "Peter Michael Belle Côte Chardonnay",
-    "price": 110.99,
     "country_state": "California",
     "region": "Knights Valley",
     "product_type": "White Wine",
@@ -1607,7 +1461,6 @@
   },
   {
     "name": "Pahlmeyer Chardonnay",
-    "price": 100.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "White Wine",
@@ -1618,7 +1471,6 @@
   },
   {
     "name": "Château d'Yquem Sauternes",
-    "price": 400.99,
     "country_state": "France",
     "region": "Bordeaux",
     "product_type": "White Wine",
@@ -1629,7 +1481,6 @@
   },
   {
     "name": "Eisele Vineyard Sauvignon Blanc",
-    "price": 120.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "White Wine",
@@ -1640,7 +1491,6 @@
   },
   {
     "name": "Didier Dagueneau Pouilly-Fumé",
-    "price": 200.99,
     "country_state": "France",
     "region": "Loire Valley",
     "product_type": "White Wine",
@@ -1651,7 +1501,6 @@
   },
   {
     "name": "Beringer Private Reserve Chardonnay",
-    "price": 60.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "White Wine",
@@ -1662,7 +1511,6 @@
   },
   {
     "name": "Domaine William Fèvre Chablis Grand Cru",
-    "price": 95.99,
     "country_state": "France",
     "region": "Burgundy",
     "product_type": "White Wine",
@@ -1673,7 +1521,6 @@
   },
   {
     "name": "Antinori Cervaro della Sala",
-    "price": 60.99,
     "country_state": "Italy",
     "region": "Umbria",
     "product_type": "White Wine",
@@ -1684,7 +1531,6 @@
   },
   {
     "name": "Kistler Vineyards Chardonnay",
-    "price": 80.99,
     "country_state": "California",
     "region": "Sonoma Coast",
     "product_type": "White Wine",
@@ -1695,7 +1541,6 @@
   },
   {
     "name": "Leeuwin Estate Art Series Chardonnay",
-    "price": 99.99,
     "country_state": "Australia",
     "region": "Margaret River",
     "product_type": "White Wine",
@@ -1706,7 +1551,6 @@
   },
   {
     "name": "Cakebread Cellars Chardonnay",
-    "price": 42.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "White Wine",
@@ -1717,7 +1561,6 @@
   },
   {
     "name": "Jermann Pinot Grigio",
-    "price": 24.99,
     "country_state": "Italy",
     "region": "Friuli-Venezia Giulia",
     "product_type": "White Wine",
@@ -1728,7 +1571,6 @@
   },
   {
     "name": "Hess Select Chardonnay",
-    "price": 13.99,
     "country_state": "California",
     "region": "Monterey County",
     "product_type": "White Wine",
@@ -1739,7 +1581,6 @@
   },
   {
     "name": "Domaine Weinbach Gewurztraminer",
-    "price": 34.99,
     "country_state": "France",
     "region": "Alsace",
     "product_type": "White Wine",
@@ -1750,7 +1591,6 @@
   },
   {
     "name": "Dr. Loosen Riesling",
-    "price": 12.99,
     "country_state": "Germany",
     "region": "Mosel",
     "product_type": "White Wine",
@@ -1761,7 +1601,6 @@
   },
   {
     "name": "Antinori Castello della Sala Bramìto Chardonnay",
-    "price": 18.99,
     "country_state": "Italy",
     "region": "Umbria",
     "product_type": "White Wine",
@@ -1772,7 +1611,6 @@
   },
   {
     "name": "Schramsberg Blanc de Blancs",
-    "price": 36.99,
     "country_state": "California",
     "region": "North Coast",
     "product_type": "White Wine",
@@ -1783,7 +1621,6 @@
   },
   {
     "name": "Joseph Drouhin Pouilly-Vinzelles",
-    "price": 26.99,
     "country_state": "France",
     "region": "Burgundy",
     "product_type": "White Wine",
@@ -1794,7 +1631,6 @@
   },
   {
     "name": "Chateau de Sancerre",
-    "price": 28.99,
     "country_state": "France",
     "region": "Loire Valley",
     "product_type": "White Wine",
@@ -1805,7 +1641,6 @@
   },
   {
     "name": "Masi Masianco Pinot Grigio & Verduzzo",
-    "price": 15.99,
     "country_state": "Italy",
     "region": "Veneto",
     "product_type": "White Wine",
@@ -1816,7 +1651,6 @@
   },
   {
     "name": "Bogle Chardonnay",
-    "price": 9.99,
     "country_state": "California",
     "region": "Clarksburg",
     "product_type": "White Wine",
@@ -1827,7 +1661,6 @@
   },
   {
     "name": "Matua Sauvignon Blanc",
-    "price": 11.99,
     "country_state": "New Zealand",
     "region": "Marlborough",
     "product_type": "White Wine",
@@ -1838,7 +1671,6 @@
   },
   {
     "name": "Yellow Tail Pinot Grigio",
-    "price": 7.99,
     "country_state": "Australia",
     "region": "South Eastern Australia",
     "product_type": "White Wine",
@@ -1849,7 +1681,6 @@
   },
   {
     "name": "Barefoot Moscato",
-    "price": 6.99,
     "country_state": "California",
     "region": "Various",
     "product_type": "White Wine",
@@ -1860,7 +1691,6 @@
   },
   {
     "name": "Cavit Pinot Grigio",
-    "price": 8.99,
     "country_state": "Italy",
     "region": "Trentino",
     "product_type": "White Wine",
@@ -1871,7 +1701,6 @@
   },
   {
     "name": "Columbia Crest Chardonnay",
-    "price": 10.99,
     "country_state": "Washington",
     "region": "Columbia Valley",
     "product_type": "White Wine",
@@ -1882,7 +1711,6 @@
   },
   {
     "name": "Fetzer Gewürztraminer",
-    "price": 8.99,
     "country_state": "California",
     "region": "Monterey County",
     "product_type": "White Wine",
@@ -1893,7 +1721,6 @@
   },
   {
     "name": "Kris Pinot Grigio",
-    "price": 12.99,
     "country_state": "Italy",
     "region": "Alto Adige",
     "product_type": "White Wine",
@@ -1904,7 +1731,6 @@
   },
   {
     "name": "Lindeman's Bin 65 Chardonnay",
-    "price": 6.99,
     "country_state": "Australia",
     "region": "South Eastern Australia",
     "product_type": "White Wine",
@@ -1915,7 +1741,6 @@
   },
   {
     "name": "Starborough Sauvignon Blanc",
-    "price": 10.99,
     "country_state": "New Zealand",
     "region": "Marlborough",
     "product_type": "White Wine",
@@ -1926,7 +1751,6 @@
   },
   {
     "name": "Two Oceans Sauvignon Blanc",
-    "price": 8.99,
     "country_state": "South Africa",
     "region": "Western Cape",
     "product_type": "White Wine",
@@ -1937,7 +1761,6 @@
   },
   {
     "name": "Woodbridge by Robert Mondavi Chardonnay",
-    "price": 7.99,
     "country_state": "California",
     "region": "Lodi",
     "product_type": "White Wine",
@@ -1948,7 +1771,6 @@
   },
   {
     "name": "Aveleda Vinho Verde",
-    "price": 6.99,
     "country_state": "Portugal",
     "region": "Vinho Verde",
     "product_type": "White Wine",
@@ -1959,7 +1781,6 @@
   },
   {
     "name": "Echo Falls White Zinfandel",
-    "price": 5.99,
     "country_state": "California",
     "region": "Various",
     "product_type": "White Wine",
@@ -1970,7 +1791,6 @@
   },
   {
     "name": "Bolla Soave",
-    "price": 9.99,
     "country_state": "Italy",
     "region": "Veneto",
     "product_type": "White Wine",
@@ -1981,7 +1801,6 @@
   },
   {
     "name": "Kistler Les Noisetiers Chardonnay",
-    "price": 64.99,
     "country_state": "California",
     "region": "Sonoma Coast",
     "product_type": "White Wine",
@@ -1992,7 +1811,6 @@
   },
   {
     "name": "Louis Jadot Pouilly-Fuissé",
-    "price": 53.99,
     "country_state": "France",
     "region": "Burgundy",
     "product_type": "White Wine",
@@ -2003,7 +1821,6 @@
   },
   {
     "name": "Leeuwin Estate Art Series Chardonnay",
-    "price": 79.99,
     "country_state": "Australia",
     "region": "Margaret River",
     "product_type": "White Wine",
@@ -2014,7 +1831,6 @@
   },
   {
     "name": "Cloudy Bay Te Koko Sauvignon Blanc",
-    "price": 58.99,
     "country_state": "New Zealand",
     "region": "Marlborough",
     "product_type": "White Wine",
@@ -2025,7 +1841,6 @@
   },
   {
     "name": "Rombauer Chardonnay",
-    "price": 55.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "White Wine",
@@ -2036,7 +1851,6 @@
   },
   {
     "name": "Domaine Leflaive Puligny-Montrachet",
-    "price": 74.99,
     "country_state": "France",
     "region": "Burgundy",
     "product_type": "White Wine",
@@ -2047,7 +1861,6 @@
   },
   {
     "name": "Peter Michael L'Apres Midi Sauvignon Blanc",
-    "price": 72.99,
     "country_state": "California",
     "region": "Knights Valley",
     "product_type": "White Wine",
@@ -2058,7 +1871,6 @@
   },
   {
     "name": "Shafer Red Shoulder Ranch Chardonnay",
-    "price": 66.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "White Wine",
@@ -2069,7 +1881,6 @@
   },
   {
     "name": "Gaja Rossj-Bass Chardonnay",
-    "price": 77.99,
     "country_state": "Italy",
     "region": "Piedmont",
     "product_type": "White Wine",
@@ -2080,7 +1891,6 @@
   },
   {
     "name": "Pahlmeyer Napa Valley Chardonnay",
-    "price": 69.99,
     "country_state": "California",
     "region": "Napa Valley",
     "product_type": "White Wine",
@@ -2091,7 +1901,6 @@
   },
   {
     "name": "Didier Dagueneau Silex Pouilly-Fumé",
-    "price": 75.99,
     "country_state": "France",
     "region": "Loire Valley",
     "product_type": "White Wine",
@@ -2102,7 +1911,6 @@
   },
   {
     "name": "Penfolds Yattarna Chardonnay",
-    "price": 79.99,
     "country_state": "Australia",
     "region": "Various",
     "product_type": "White Wine",
@@ -2113,7 +1921,6 @@
   },
   {
     "name": "Domaine Weinbach Gewurztraminer Cuvée Laurence",
-    "price": 59.99,
     "country_state": "France",
     "region": "Alsace",
     "product_type": "White Wine",
