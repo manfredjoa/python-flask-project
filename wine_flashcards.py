@@ -25,31 +25,43 @@ def wine_flashcards():
                 red = wine_list[i]['product_type'][0:3].lower()
                 if response.lower() == red:
                     print("Correct!")
-                    # wine_list[i]['correct'] += 1
+                    flashcard = Wine.get(Wine.id == wine_list[i]['id'])
+                    flashcard.correct += 1
+                    flashcard.save()
                 else:
                     print(
                         f"Incorrect! {wine_list[i]['name']} is a {wine_list[i]['product_type']}.")
-                    # wine_list[i]['incorrect'] += 1
+                    flashcard = Wine.get(Wine.id == wine_list[i]['id'])
+                    flashcard.incorrect += 1
+                    flashcard.save()
 
             elif wine_list[i]['product_type'] == "White Wine":
                 white = wine_list[i]['product_type'][0:5].lower()
                 if response.lower() == white:
                     print("Correct!")
-                    # wine_list[i]['correct'] += 1
+                    flashcard = Wine.get(Wine.id == wine_list[i]['id'])
+                    flashcard.correct += 1
+                    flashcard.save()
                 else:
                     print(
                         f"Incorrect! {wine_list[i]['name']} is a {wine_list[i]['product_type']}.")
-                    # wine_list[i]['incorrect'] += 1
+                    flashcard = Wine.get(Wine.id == wine_list[i]['id'])
+                    flashcard.incorrect += 1
+                    flashcard.save()
 
             else:
                 rose = wine_list[i]['product_type'][0:4].lower()
                 if response.lower() == rose:
                     print("Correct!")
-                    # wine_list[i]['correct'] += 1
+                    flashcard = Wine.get(Wine.id == wine_list[i]['id'])
+                    flashcard.correct += 1
+                    flashcard.save()
                 else:
                     print(
                         f"Incorrect! {wine_list[i]['name']} is a {wine_list[i]['product_type']}.")
-                    # wine_list[i]['incorrect'] += 1
+                    flashcard = Wine.get(Wine.id == wine_list[i]['id'])
+                    flashcard.incorrect += 1
+                    flashcard.save()
 
     def start():
         create_or_train = input(
