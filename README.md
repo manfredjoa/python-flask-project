@@ -15,7 +15,7 @@ Since the json file had fields written in Pascal case and Python is written in s
 <br>
 
 ```
-sed sed -i '' -e 's/JSONFieldName/python_field_name/g master.json'
+sed -i '' -e 's/JSONFieldName/python_field_name/g master.json'
 ```
 
 <br>
